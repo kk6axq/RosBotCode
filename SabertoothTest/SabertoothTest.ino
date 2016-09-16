@@ -1,7 +1,7 @@
 /*****************************************
 SabertoothTest.ino
 Created August 25, 2016
-Author: thecentralthinkingunit@blogspot.com
+Author: thecentralthinkingunit.blogspot.com
 Purpose:
 This program tests that the connection bet-
 ween the Sabertooth and the Arduino is wor-
